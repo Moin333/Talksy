@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722641698495",
+    "project_id": "talksy-35ed2",
+    "storage_bucket": "talksy-35ed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722641698495:android:7a59dc565b4e0f995b900a",
+        "android_client_info": {
+          "package_name": "com.example.talksy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsgEdu0wF9ZKvwfJwu0_7PcWxwWmBflSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
